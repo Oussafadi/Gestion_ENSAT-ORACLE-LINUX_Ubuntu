@@ -1,0 +1,100 @@
+body {
+    background-color: rgb(200, 201, 245);
+    
+  }
+  h4 {
+    color: red;
+  }
+  a {
+    float: right;
+  }
+  .nav-item h1 {
+    position: absolute;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    color:rgb(25, 35, 95);
+}
+  
+.a1 {
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    height: 25px;
+    width: 200px;
+    background-color: rgb(95, 116, 236);
+  }
+  .login {
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .forme {
+ 
+    width: 50%;
+    background-color: white;
+    border: solid 1px black;
+    text-align: center;
+    background-color: rgb(184, 185, 238);
+    border-radius: 20px ;
+    
+  }
+
+  .b {
+    font-size: 15px;
+    width: 250px;
+    height: 25px;
+    padding: 10px 12px;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    background-color: white;
+    
+  }
+
+  .txt {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+
+  .t{
+    font-size: 20px;
+  color: rgb(0, 0, 34);
+  }
+
+   .tx{
+      font-size: 60px;
+    color: blue;
+    }
+
+    .b{
+      border-radius: 20px;
+      border-color: rgb(12, 12, 15);
+    }
+
+    .bx{
+      border-radius: 20px;
+      border-color: blue;
+      width: 190px;
+    }
+
+    .i{
+
+        font-size: 20px;
+      
+        font-style:normal;
+        color: blue;
+      }
+
+      .f{
+        color:black;
+        font-size: 15px;
+      
+        border-radius: 10px;
+        border-color: blue;
+        height: 25px;
+        width:100px ;
+      }
